@@ -1,0 +1,8 @@
+AskIntent what's the date {Date}
+AskIntent what is {Date} date
+
+DaysOfWeekIntent what day
+
+AMAZON.StopIntent good bye
+AMAZON.StopIntent see you
+AMAZON.StopIntent stop
